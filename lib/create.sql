@@ -13,3 +13,9 @@ name text,
 age INTEGER
 
 );
+
+create table pledge(
+id INTEGER PRIMARY KEY,
+user_id INTEGER,
+project_id INTEGER
+);
