@@ -14,7 +14,7 @@ age INTEGER
 
 );
 
-create table pledge(
+create table pledges(
 id INTEGER PRIMARY KEY,
 amount INTEGER,
 user_id INTEGER,
