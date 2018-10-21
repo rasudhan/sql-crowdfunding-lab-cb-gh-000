@@ -1,5 +1,6 @@
 create table projects(
+id INTEGER PRIMARY KEY,
 title text,
 category text,
-fundig
+funding_goal IN
 );
